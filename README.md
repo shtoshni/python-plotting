@@ -1,6 +1,6 @@
 # python-plotting
 
-While it's not clear whether we our world is simulated or real, one thing is for sure that those simulations are not done with [matplotlib](https://matplotlib.org/) default settings.
+While it's not clear whether our world is simulated or real, one thing is for sure that those simulations are not done with [matplotlib](https://matplotlib.org/) default settings.
 The default settings are ugly to say the least. In this repository, I illustrate some of the settings I use for matplotlib. I also illustrate examples with other libraries such as [Plotly](https://plotly.com/) and [ETE](http://etetoolkit.org/). <br/><br/>
 
 Following is the list of examples with brief descriptions and links to their separate notebooks:
