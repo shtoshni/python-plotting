@@ -1,0 +1,9 @@
+Bengali, 364617
+Gujarati, 243390
+Hindi, 213753
+Kannada, 192523
+Malayalam, 285051
+Marathi, 227092
+Tamil, 164088
+Telugu, 232861
+Urdu, 196554
