@@ -1,0 +1,5 @@
+(Greek:1, (Romanian:1, (Italian:1, ((Catalan:1, French:1):1,
+    (Spanish:1, Portuguese:1):1):1):1):1,
+    ((Norwegian:1, (Danish:1, Swedish:1):1):1, (English:1, Dutch:1, German:1):1):1,
+    ((Russian:1, Ukrainian:1):1, ((Czech:1, Slovak:1):1,Polish:1):1,
+    ((Bulgarian:1, Macedonian:1):1, (Slovenian:1, Croatian:1):1):1):1):1;
