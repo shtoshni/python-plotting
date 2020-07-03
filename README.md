@@ -10,6 +10,7 @@ Following is the list of examples with brief descriptions and links to their sep
 <p align="center">
 <img src="plots/bar_2.jpg" width="300" />
 </p>
+
 * [Line Plot](https://github.com/shtoshni92/python-plotting/blob/master/notebooks/Simple%20Plot.ipynb): A simple line plot. 
 <p align="center">
 <img src="plots/simple_plot.jpg" width="350" />
